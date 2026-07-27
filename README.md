@@ -29,7 +29,7 @@
 **Проектные решения:** идентификация по VIN, фиксация цен на момент
 заказ-наряда, защита ПДн по 152-ФЗ.
 
-[Исходники на Google Диске](https://drive.google.com/drive/folders/1Vdy7hEtQJzBJmo68_isr5o5fpn0Ydqe9?usp=drive_link)
+[Проект на Google Диске](https://drive.google.com/drive/folders/1Vdy7hEtQJzBJmo68_isr5o5fpn0Ydqe9?usp=drive_link)
 
 ---
 
