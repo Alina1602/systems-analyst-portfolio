@@ -89,7 +89,7 @@
 
 **Инструмент:** Holst (коллаборативная доска)
 
-[Доска с историями и бэклогом](https://otus.ru/redirect/?to=https%3A%2F%2Fapp.holst.so%2Finvite%2F3dc29a82-b809-4359-a15d-e63700cb3db9)
+[Доска с историями и бэклогом (полная версия)](https://otus.ru/redirect/?to=https%3A%2F%2Fapp.holst.so%2Finvite%2F3dc29a82-b809-4359-a15d-e63700cb3db9)
 
 
   ### Проектирование информационного взаимодействия
